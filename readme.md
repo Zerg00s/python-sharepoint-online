@@ -1,4 +1,4 @@
-# SharePoint Onlye App + Python Authentication Tutorial
+# SharePoint Only App + Python Authentication Tutorial
 
 ### Create a new App Principal
 https://TENANT.sharepoint.com/_layouts/15/appregnew.aspx
